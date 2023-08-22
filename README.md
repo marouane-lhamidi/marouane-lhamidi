@@ -1,30 +1,37 @@
-### Hi there 👋
-# Hi, I'm LHAMIDI Marouane! 👋
+# Marouane LHAMIDI 👨‍💻
 
-I'm currently in my 5th year of studies at the Moroccan School of Engineering Sciences, specializing in Computer Methods in Business Management. I am currently completing my end-of-studies internship at Société Générale, where I am applying my Java/JEE development skills using the Spring Boot framework and Spring Cloud, as well as tools like Keycloak, to develop robust and high-performing applications..
+Welcome to my GitHub profile! I'm Marouane LHAMIDI, a passionate software engineer specializing in Computer Methods in Business Management. I recently graduated from the Moroccan School of Engineering Sciences. Throughout my 5-year journey, I've developed a strong foundation in Java/JEE development and gained proficiency in the Spring ecosystem.
 
-In addition to my technical skills, I'm also a writer and enjoy sharing my knowledge through articles.
+## About Me 🚀
 
-## 💻 Technologies & Tools
+During my academic years and experiences, I engaged in various projects, allowing me to explore the complications of software development. This passion led me to apply my skills and expertise to various projects, where I gained valuable insights into software engineering practices.
 
-- Java
-- Java/JEE
-- Spring Boot 
-- Spring Cloud (Microservice Architecture)
-- Keycloak
-- Docker
-- Git
+## Skills & Expertise 🛠️
 
-## 🌱 Currently Learning
+Here's a glimpse of my mastered technologies and tools:
 
-- Mastring Java
+- Java, Java/JEE ☕
+- Spring Boot, Spring Cloud (Microservice Architecture) 🌐
+- Keycloak for Authentication & Authorization 🔐
+- Docker for Containerization 🐳
+- Git for Version Control 🗂️
+- TypeScript, Angular, Bootstrap, Sass (Front-End) 🌐
+- Git, Docker, Zipkin, Postman, SOAPUI, Maven, Jira (DevOps) 🛠️
 
-## 📝 Latest Blog Posts
+## Sharing Knowledge 📝
 
-- Medium: [The Relationship Between Programmers and Computers](https://medium.com/@marouane.lhamidi/the-relationship-between-programmers-and-computers-67670a867a6f)
-- HashNode: [The Relationship Between Programmers and Computers](https://marouanelhamidi.hashnode.dev/the-relationship-between-programmers-and-computers)
-## 🤝 Connect with Me
+Beyond coding, I'm an avid writer who loves sharing insights with the tech community. Check out some of my articles on Medium and HashNode.
 
-- LinkedIn: [LHAMIDI Marouane](https://www.linkedin.com/in/marouane-lhamidi/)
+## Blog Posts 📚
 
-I'm always looking for new challenges to improve my skills, so feel free to reach out if you have any interesting projects or ideas you'd like to collaborate on!
+- [The Relationship Between Programmers and Computers](https://medium.com/@marouane.lhamidi/the-relationship-between-programmers-and-computers-67670a867a6f)
+- [The Relationship Between Programmers and Computers](https://marouanelhamidi.hashnode.dev/the-relationship-between-programmers-and-computers)
+
+## Let's Connect 🤝
+
+I'm always eager to collaborate on innovative projects. Connect with me on [LinkedIn](https://www.linkedin.com/in/marouane-lhamidi/) to explore exciting opportunities.
+
+Thank you for visiting my profile, and I look forward to contributing to the world of technology!
+
+Best regards,
+Marouane LHAMIDI
